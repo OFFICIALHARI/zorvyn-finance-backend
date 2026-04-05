@@ -202,7 +202,7 @@ For local demo, the JWT secret is set directly in `application.properties`.
 
 - No pagination for record listing.
 - No automated test suite included.
-- H2 is used instead of a production database.
+- H2 is used instead of a production level database.
 
 ## Future Improvements
 
